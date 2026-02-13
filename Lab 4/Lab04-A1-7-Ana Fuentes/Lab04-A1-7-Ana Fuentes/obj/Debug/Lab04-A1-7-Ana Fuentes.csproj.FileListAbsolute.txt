@@ -1,0 +1,7 @@
+C:\Users\anada\source\repos\Lab04-A1-7-Ana Fuentes\Lab04-A1-7-Ana Fuentes\bin\Debug\Lab04-A1-7-Ana Fuentes.exe.config
+C:\Users\anada\source\repos\Lab04-A1-7-Ana Fuentes\Lab04-A1-7-Ana Fuentes\bin\Debug\Lab04-A1-7-Ana Fuentes.exe
+C:\Users\anada\source\repos\Lab04-A1-7-Ana Fuentes\Lab04-A1-7-Ana Fuentes\bin\Debug\Lab04-A1-7-Ana Fuentes.pdb
+C:\Users\anada\source\repos\Lab04-A1-7-Ana Fuentes\Lab04-A1-7-Ana Fuentes\obj\Debug\Lab04-A1-7-Ana Fuentes.csproj.AssemblyReference.cache
+C:\Users\anada\source\repos\Lab04-A1-7-Ana Fuentes\Lab04-A1-7-Ana Fuentes\obj\Debug\Lab04-A1-7-Ana Fuentes.csproj.CoreCompileInputs.cache
+C:\Users\anada\source\repos\Lab04-A1-7-Ana Fuentes\Lab04-A1-7-Ana Fuentes\obj\Debug\Lab04-A1-7-Ana Fuentes.exe
+C:\Users\anada\source\repos\Lab04-A1-7-Ana Fuentes\Lab04-A1-7-Ana Fuentes\obj\Debug\Lab04-A1-7-Ana Fuentes.pdb
