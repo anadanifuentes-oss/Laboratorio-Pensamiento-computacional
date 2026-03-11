@@ -1,0 +1,7 @@
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 8\Lab08-A1-A5-Ana Fuentes\Lab08-A1-A5-Ana Fuentes\bin\Debug\Lab08-A1-A5-Ana Fuentes.exe.config
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 8\Lab08-A1-A5-Ana Fuentes\Lab08-A1-A5-Ana Fuentes\bin\Debug\Lab08-A1-A5-Ana Fuentes.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 8\Lab08-A1-A5-Ana Fuentes\Lab08-A1-A5-Ana Fuentes\bin\Debug\Lab08-A1-A5-Ana Fuentes.pdb
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 8\Lab08-A1-A5-Ana Fuentes\Lab08-A1-A5-Ana Fuentes\obj\Debug\Lab08-A1-A5-Ana Fuentes.csproj.AssemblyReference.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 8\Lab08-A1-A5-Ana Fuentes\Lab08-A1-A5-Ana Fuentes\obj\Debug\Lab08-A1-A5-Ana Fuentes.csproj.CoreCompileInputs.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 8\Lab08-A1-A5-Ana Fuentes\Lab08-A1-A5-Ana Fuentes\obj\Debug\Lab08-A1-A5-Ana Fuentes.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 8\Lab08-A1-A5-Ana Fuentes\Lab08-A1-A5-Ana Fuentes\obj\Debug\Lab08-A1-A5-Ana Fuentes.pdb
