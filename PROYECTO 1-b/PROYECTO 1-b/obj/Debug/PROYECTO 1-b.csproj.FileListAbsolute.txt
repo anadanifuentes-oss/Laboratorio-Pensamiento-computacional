@@ -1,0 +1,7 @@
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 1-b\PROYECTO 1-b\PROYECTO 1-b\bin\Debug\PROYECTO 1-b.exe.config
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 1-b\PROYECTO 1-b\PROYECTO 1-b\bin\Debug\PROYECTO 1-b.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 1-b\PROYECTO 1-b\PROYECTO 1-b\bin\Debug\PROYECTO 1-b.pdb
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 1-b\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\PROYECTO 1-b.csproj.AssemblyReference.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 1-b\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\PROYECTO 1-b.csproj.CoreCompileInputs.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 1-b\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\PROYECTO 1-b.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 1-b\PROYECTO 1-b\PROYECTO 1-b\obj\Debug\PROYECTO 1-b.pdb
