@@ -1,0 +1,7 @@
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 10\Lab10-A1-A4-Ana Fuentes\Lab10-A1-A4-Ana Fuentes\bin\Debug\Lab10-A1-A4-Ana Fuentes.exe.config
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 10\Lab10-A1-A4-Ana Fuentes\Lab10-A1-A4-Ana Fuentes\bin\Debug\Lab10-A1-A4-Ana Fuentes.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 10\Lab10-A1-A4-Ana Fuentes\Lab10-A1-A4-Ana Fuentes\bin\Debug\Lab10-A1-A4-Ana Fuentes.pdb
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 10\Lab10-A1-A4-Ana Fuentes\Lab10-A1-A4-Ana Fuentes\obj\Debug\Lab10-A1-A4-Ana Fuentes.csproj.AssemblyReference.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 10\Lab10-A1-A4-Ana Fuentes\Lab10-A1-A4-Ana Fuentes\obj\Debug\Lab10-A1-A4-Ana Fuentes.csproj.CoreCompileInputs.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 10\Lab10-A1-A4-Ana Fuentes\Lab10-A1-A4-Ana Fuentes\obj\Debug\Lab10-A1-A4-Ana Fuentes.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 10\Lab10-A1-A4-Ana Fuentes\Lab10-A1-A4-Ana Fuentes\obj\Debug\Lab10-A1-A4-Ana Fuentes.pdb
