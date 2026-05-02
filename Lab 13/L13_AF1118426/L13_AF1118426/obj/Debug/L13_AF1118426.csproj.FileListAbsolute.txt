@@ -1,0 +1,7 @@
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\L13_AF1118426\L13_AF1118426\bin\Debug\L13_AF1118426.exe.config
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\L13_AF1118426\L13_AF1118426\bin\Debug\L13_AF1118426.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\L13_AF1118426\L13_AF1118426\bin\Debug\L13_AF1118426.pdb
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\L13_AF1118426\L13_AF1118426\obj\Debug\L13_AF1118426.csproj.AssemblyReference.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\L13_AF1118426\L13_AF1118426\obj\Debug\L13_AF1118426.csproj.CoreCompileInputs.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\L13_AF1118426\L13_AF1118426\obj\Debug\L13_AF1118426.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\L13_AF1118426\L13_AF1118426\obj\Debug\L13_AF1118426.pdb
