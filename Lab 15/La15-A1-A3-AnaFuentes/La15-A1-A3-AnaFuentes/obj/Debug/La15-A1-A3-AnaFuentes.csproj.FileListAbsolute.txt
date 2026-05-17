@@ -1,0 +1,7 @@
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 15\La15-A1-A3-AnaFuentes\La15-A1-A3-AnaFuentes\bin\Debug\La15-A1-A3-AnaFuentes.exe.config
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 15\La15-A1-A3-AnaFuentes\La15-A1-A3-AnaFuentes\bin\Debug\La15-A1-A3-AnaFuentes.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 15\La15-A1-A3-AnaFuentes\La15-A1-A3-AnaFuentes\bin\Debug\La15-A1-A3-AnaFuentes.pdb
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 15\La15-A1-A3-AnaFuentes\La15-A1-A3-AnaFuentes\obj\Debug\La15-A1-A3-AnaFuentes.csproj.AssemblyReference.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 15\La15-A1-A3-AnaFuentes\La15-A1-A3-AnaFuentes\obj\Debug\La15-A1-A3-AnaFuentes.csproj.CoreCompileInputs.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 15\La15-A1-A3-AnaFuentes\La15-A1-A3-AnaFuentes\obj\Debug\La15-A1-A3-AnaFuentes.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\Lab 15\La15-A1-A3-AnaFuentes\La15-A1-A3-AnaFuentes\obj\Debug\La15-A1-A3-AnaFuentes.pdb
