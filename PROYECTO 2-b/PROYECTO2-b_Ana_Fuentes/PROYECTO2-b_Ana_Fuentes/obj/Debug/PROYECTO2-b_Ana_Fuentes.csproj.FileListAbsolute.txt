@@ -1,0 +1,7 @@
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\PROYECTO2-b_Ana_Fuentes\PROYECTO2-b_Ana_Fuentes\bin\Debug\PROYECTO2-b_Ana_Fuentes.exe.config
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\PROYECTO2-b_Ana_Fuentes\PROYECTO2-b_Ana_Fuentes\bin\Debug\PROYECTO2-b_Ana_Fuentes.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\PROYECTO2-b_Ana_Fuentes\PROYECTO2-b_Ana_Fuentes\bin\Debug\PROYECTO2-b_Ana_Fuentes.pdb
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\PROYECTO2-b_Ana_Fuentes\PROYECTO2-b_Ana_Fuentes\obj\Debug\PROYECTO2-b_Ana_Fuentes.csproj.AssemblyReference.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\PROYECTO2-b_Ana_Fuentes\PROYECTO2-b_Ana_Fuentes\obj\Debug\PROYECTO2-b_Ana_Fuentes.csproj.CoreCompileInputs.cache
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\PROYECTO2-b_Ana_Fuentes\PROYECTO2-b_Ana_Fuentes\obj\Debug\PROYECTO2-b_Ana_Fuentes.exe
+C:\Users\anada\OneDrive\Documentos\GitHub\Laboratorio-Pensamiento-computacional\PROYECTO 2-b\PROYECTO2-b_Ana_Fuentes\PROYECTO2-b_Ana_Fuentes\obj\Debug\PROYECTO2-b_Ana_Fuentes.pdb
